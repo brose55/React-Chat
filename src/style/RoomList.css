@@ -1,0 +1,19 @@
+.room {
+   list-style: none;
+	 font-size: 2rem;
+	 margin-bottom: 1vh;
+}
+
+.room-input {
+	border-radius: 15px;
+	border: 2px solid black;
+	height: 3vh;
+	padding: .5vh 1vw;
+	width: 60%;
+	font-size: 1.5rem;
+}
+
+.rooms {
+	font-size: 1.5rem;
+	margin-bottom: 0;
+}
